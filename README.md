@@ -111,7 +111,8 @@ Driven by curiosity, precision, and a relentless pursuit of intelligent automati
 ## 🌐 Explore Full VLPRs: An Intelligent Vision Framework  
 
 <p align="center">
-<a href="YOUR_LINK_HERE" target="_blank">
+<a href="Vehicle-License-Plate-Detection-And-Recognition-System
+/VLPRS.html" target="_blank">
   <img src="https://img.shields.io/badge/View%20Full%20Interactive%20Documentation-%2300FFC6?style=for-the-badge&logo=readme&logoColor=white" alt="View Full Documentation" />
 </a>
 </p>
