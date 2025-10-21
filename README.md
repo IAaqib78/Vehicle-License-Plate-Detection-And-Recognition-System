@@ -35,7 +35,7 @@ Crafted with the mindset of a data scientist and the precision of an engineer, i
 ## 💡 Tech Stack  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/license-MIT-blue" />
+   
   <img src="https://img.shields.io/badge/last%20commit-today-success" />
   <img src="https://img.shields.io/badge/python-83.1%25-blue" />
   <img src="https://img.shields.io/badge/languages-4-lightgrey" />
