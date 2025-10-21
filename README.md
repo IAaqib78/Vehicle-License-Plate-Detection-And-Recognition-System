@@ -6,9 +6,7 @@
 <em>Where computer vision meets real-world intelligence — redefining automation through vision, precision, and deep learning.</em>
 </p>
 
-<p align="center">
-<img src="Imageinterface.jpeg" alt="VLPR System Interface" width="85%" style="border-radius: 15px; box-shadow: 0 0 15px #00ffc6;">
-</p>
+ 
 
 ---
 
@@ -61,11 +59,23 @@ Built with the precision of the following technologies:
 
 ## 🚀 Project Architecture  
 
+
+
 ├── main.py # Core execution and model orchestration
+
+
 ├── utils.py # Helper functions for data processing
+
+
 ├── add_missing_data.py # Handles incomplete datasets & preprocessing
+
+
 ├── Visualize.py # Visual rendering and analysis
+
+
 ├── streamlit_app.py # Interactive web-based interface
+
+
 └── assets/ # Images, outputs, and model weights
 
 
