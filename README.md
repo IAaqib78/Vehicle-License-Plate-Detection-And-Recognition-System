@@ -108,7 +108,7 @@ Driven by curiosity, precision, and a relentless pursuit of intelligent automati
 
 ---
 
-## 🌐 Explore Full Documentation  
+## 🌐 Explore Full VLPRs: An Intelligent Vision Framework  
 
 <p align="center">
 <a href="YOUR_LINK_HERE" target="_blank">
