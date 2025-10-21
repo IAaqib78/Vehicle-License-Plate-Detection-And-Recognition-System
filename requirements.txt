@@ -1,0 +1,12 @@
+ultralytics>=8.0.160
+torch>=2.0.0
+torchvision
+opencv-python
+pandas
+numpy
+pytesseract
+streamlit
+moviepy
+tqdm
+scipy
+easyocr
