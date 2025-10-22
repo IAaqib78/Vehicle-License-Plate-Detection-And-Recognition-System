@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<img src="imageVLPR.png"alt="VLPR System Interface Example" width="85%" style="border-radius: 15px; box-shadow: 0 0 15px #00ffc6;">
+<img src="r"alt="VLPR System Interface Example" width="85%" style="border-radius: 15px; box-shadow: 0 0 15px #00ffc6;">
 </p>
 
 ---
