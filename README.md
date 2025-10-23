@@ -1,5 +1,5 @@
 <h1 align="center">
-🚗✨ Vehicle License Plate Detection & Recognition System  
+🚗 Vehicle License Plate Detection & Recognition System  
 </h1>
 
 <p align="center">
@@ -17,10 +17,15 @@
        style="border-radius: 15px; box-shadow: 0 0 15px #00ffc6;">
 </p>
 
+<p align="center" style="font-size: 14px; color: #00ffc6; font-weight: 600;">
+  ⚙️ <em>VLPR System Interface Example</em>
+</p>
+
+
 
 ---
 
-## 🧠 Introduction  
+##  Introduction  
 
 The **Vehicle License Plate Detection and Recognition System (VLPR)** represents a cutting-edge fusion of AI, computer vision, and intelligent automation.  
 Built to **detect, isolate, and recognize license plates** from real-world environments — this system bridges the gap between machine perception and smart surveillance.  
@@ -42,7 +47,7 @@ Crafted with the mindset of a data scientist and the precision of an engineer, i
 
 ---
 
-## 💡 Tech Stack  
+##  Tech Stack  
 
 <p align="center">
    
@@ -67,7 +72,7 @@ Built with the precision of the following technologies:
 
 ---
 
-## 🚀 Project Architecture  
+##  Project Architecture  
 
 
 
@@ -138,7 +143,7 @@ Driven by curiosity, precision, and a relentless pursuit of intelligent automati
 ---
 
 <p align="center">
-⚡ Designed and engineered with precision, purpose, and passion.  
+ Designed and engineered with precision, purpose, and passion.  
 </p>
 
 
