@@ -183,26 +183,30 @@ Crafted with the mindset of a data scientist and the precision of an engineer, i
 
 
 
-<h3 style="text-align:center; color:#00ffff; font-weight:700; margin-bottom:10px;">👨‍💻 About the Author</h3>
+<h3 align="center" style="font-family:'Segoe UI', sans-serif; color:#00BFA5; font-weight:700; font-size:22px; margin-bottom:10px;">
+👨‍💻 About the Author
+</h3>
 
 <h2 align="center" style="
-    background: linear-gradient(90deg, #00ffff, #58a6ff); 
-    -webkit-background-clip: text; 
-    color: #00ffff; 
-    text-shadow: 0 0 8px #00ffff, 0 0 15px #58a6ff;
-    font-size:2.5em;
+    font-family:'Segoe UI', sans-serif;
+    font-size:2.2em;
     font-weight:800;
+    color:#263238;
+    background: linear-gradient(90deg, #00BFA5, #2196F3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     margin-bottom:20px;">
   Aakif Altaf
 </h2>
 
-<p align="center" style="color:#e6e6e6; font-size:16px; line-height:1.6;">
+<p align="center" style="font-family:'Segoe UI', sans-serif; color:#37474F; font-size:16px; line-height:1.6;">
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80" alt="Author Avatar" style="margin-bottom:10px;"/><br>
-  Data Scientist | BCA & MCA Graduate | <b>IBM-Certified Data Scientist</b> | <b>Google-Certified Data Analyst</b><br>
-  Driven by curiosity, precision, and a relentless pursuit of intelligent automation in real-world systems.
+  Data Scientist | BCA & MCA Graduate<br>
+  <b>IBM-Certified Data Scientist</b> &nbsp;|&nbsp; <b>Google-Certified Data Analyst</b><br>
+  Passionate about intelligent automation, data-driven decisions, and building systems that make life smarter.
 </p>
 
-<p align="center" style="color:#00ffff; font-style:italic; font-size:15px; line-height:1.5; margin-top:5px;">
+<p align="center" style="font-family:'Segoe UI', sans-serif; color:#607D8B; font-style:italic; font-size:15px; line-height:1.5; margin-top:5px;">
   “Behind every intelligent system is a mind that sees patterns where others see noise and pixels.”
 </p>
 
