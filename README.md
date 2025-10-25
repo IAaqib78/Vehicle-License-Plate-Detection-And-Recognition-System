@@ -40,61 +40,74 @@ Crafted with the mindset of a data scientist and the precision of an engineer, i
 
 
 
-<h2 style="text-align:center; color:#00bfff; font-weight:700;">Core Features — Intelligent, Adaptive, Real-Time</h2>
+<h2 align="center" style="color:#58a6ff; margin-bottom:20px;">Core Features — Intelligent, Adaptive, Real-Time</h2>
 
-<table style="width:100%; border-collapse:collapse; background-color:#121212; border:1px solid #333333; font-family:Arial, sans-serif;">
-  <tr style="background-color:#1e1e1e; color:#00ffff; font-size:16px; font-weight:600;">
-    <th style="padding:14px; text-align:left;">🚗 Capability</th>
-    <th style="padding:14px; text-align:left;">💡 Description</th>
+<table align="center" style="max-width:900px; border-collapse:collapse; margin-top:10px;">
+  <tr>
+    <th align="center" width="220" style="background-color:#0f111a;color:#00ffe6;font-size:18px;">Feature</th>
+    <th align="center" style="background-color:#0f111a;color:#00ffe6;font-size:18px;">Purpose & Description</th>
   </tr>
 
-  <tr style="transition: background 0.3s;">
-    <td style="padding:12px; color:#00ffff; font-weight:600;"><b>Real-Time License Plate Detection</b></td>
-    <td style="padding:12px; color:#f0f0f0; line-height:1.6;">
-      Powered by <b>YOLOv8</b>, the system performs high-speed detection and localization of license plates in both images and live video streams.
+  <tr>
+    <td align="center" style="background-color:#111420;color:#e6e6e6;padding:15px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/2910/2910762.png" width="50"/><br><b>Real-Time License Plate Detection</b>
+    </td>
+    <td style="background-color:#111420;color:#e6e6e6;padding:15px;line-height:1.6;">
+      Powered by <b>YOLOv8</b> for high-speed detection and localization of license plates in images and live video feeds.
     </td>
   </tr>
 
-  <tr style="transition: background 0.3s;">
-    <td style="padding:12px; color:#00ffff; font-weight:600;"><b>Optical Character Recognition (OCR)</b></td>
-    <td style="padding:12px; color:#f0f0f0; line-height:1.6;">
-      Utilizes advanced OCR pipelines to extract and decode alphanumeric plate details with remarkable accuracy and efficiency.
+  <tr>
+    <td align="center" style="background-color:#111420;color:#e6e6e6;padding:15px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/1828/1828443.png" width="50"/><br><b>Optical Character Recognition (OCR)</b>
+    </td>
+    <td style="background-color:#111420;color:#e6e6e6;padding:15px;line-height:1.6;">
+      Extracts and decodes alphanumeric plate details with advanced OCR pipelines for minimal error rates, even in challenging lighting or distorted inputs.
     </td>
   </tr>
 
-  <tr style="transition: background 0.3s;">
-    <td style="padding:12px; color:#00ffff; font-weight:600;"><b>Noise & Glare Correction</b></td>
-    <td style="padding:12px; color:#f0f0f0; line-height:1.6;">
-      Integrates preprocessing techniques such as <b>illumination normalization</b>, <b>contrast enhancement</b>, and <b>motion blur reduction</b> to maintain clarity under varying lighting conditions.
+  <tr>
+    <td align="center" style="background-color:#111420;color:#e6e6e6;padding:15px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/2910/2910840.png" width="50"/><br><b>Noise & Glare Correction</b>
+    </td>
+    <td style="background-color:#111420;color:#e6e6e6;padding:15px;line-height:1.6;">
+      Applies <b>noise suppression, glare removal, and edge enhancement</b> to normalize input quality and maintain detection precision under real-world conditions.
     </td>
   </tr>
 
-  <tr style="transition: background 0.3s;">
-    <td style="padding:12px; color:#00ffff; font-weight:600;"><b>Multi-Input Compatibility</b></td>
-    <td style="padding:12px; color:#f0f0f0; line-height:1.6;">
-      Supports real-time feeds from <b>webcams, CCTV, or uploaded files</b>, adapting dynamically to diverse input formats and resolutions.
+  <tr>
+    <td align="center" style="background-color:#111420;color:#e6e6e6;padding:15px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/2785/2785810.png" width="50"/><br><b>Multi-Input Compatibility</b>
+    </td>
+    <td style="background-color:#111420;color:#e6e6e6;padding:15px;line-height:1.6;">
+      Supports feeds from <b>webcams, CCTV, or uploaded files</b>, dynamically adapting to various input formats and resolutions.
     </td>
   </tr>
 
-  <tr style="transition: background 0.3s;">
-    <td style="padding:12px; color:#00ffff; font-weight:600;"><b>Interactive Streamlit Dashboard</b></td>
-    <td style="padding:12px; color:#f0f0f0; line-height:1.6;">
-      An intuitive dashboard for <b>live visualization, performance metrics</b>, and detection previews — making experimentation seamless and interactive.
+  <tr>
+    <td align="center" style="background-color:#111420;color:#e6e6e6;padding:15px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/2910/2910764.png" width="50"/><br><b>Interactive Streamlit Dashboard</b>
+    </td>
+    <td style="background-color:#111420;color:#e6e6e6;padding:15px;line-height:1.6;">
+      A clean, intuitive dashboard for <b>live visualization, performance metrics</b>, and detection previews — making experimentation seamless.
     </td>
   </tr>
 
-  <tr style="transition: background 0.3s;">
-    <td style="padding:12px; color:#00ffff; font-weight:600;"><b>Scalable Modular Design</b></td>
-    <td style="padding:12px; color:#f0f0f0; line-height:1.6;">
-      Engineered with a <b>plug-and-play architecture</b> enabling easy integration into <b>smart surveillance, toll monitoring</b>, and <b>automated access systems</b>.
+  <tr>
+    <td align="center" style="background-color:#111420;color:#e6e6e6;padding:15px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/2910/2910831.png" width="50"/><br><b>Scalable Modular Design</b>
+    </td>
+    <td style="background-color:#111420;color:#e6e6e6;padding:15px;line-height:1.6;">
+      Engineered with a <b>plug-and-play architecture</b> for easy integration into <b>smart surveillance, toll monitoring</b>, and <b>automated access systems</b>.
     </td>
   </tr>
 </table>
 
-<style>
-  table tr:hover { background-color: #262626; }
-  table td, table th { transition: all 0.3s ease; }
-</style>
+<p align="center"> 
+  <i style="color:#9be9a8; font-size:15px;">“Transforming computer vision from static detection to real-time intelligence.”</i> 
+</p>
+
+
 
 
 
@@ -170,38 +183,37 @@ Crafted with the mindset of a data scientist and the precision of an engineer, i
 
 
 
-<h3 style="text-align:center; color:#00bfff; font-weight:700;">👨‍💻 About the Author</h3>
+<h3 style="text-align:center; color:#00ffff; font-weight:700; margin-bottom:10px;">👨‍💻 About the Author</h3>
 
 <h2 align="center" style="
-    background: linear-gradient(90deg, #00bfff, #58a6ff); 
+    background: linear-gradient(90deg, #00ffff, #58a6ff); 
     -webkit-background-clip: text; 
-    color: #00bfff; 
-    text-shadow: 0 0 5px #00bfff, 0 0 10px #58a6ff;
+    color: #00ffff; 
+    text-shadow: 0 0 8px #00ffff, 0 0 15px #58a6ff;
     font-size:2.5em;
-    font-weight:800;">
+    font-weight:800;
+    margin-bottom:20px;">
   Aakif Altaf
 </h2>
 
-<p align="center" style="color:#f0f0f0; font-size:16px; line-height:1.6;">
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80" alt="Author Avatar"/><br>
+<p align="center" style="color:#e6e6e6; font-size:16px; line-height:1.6;">
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80" alt="Author Avatar" style="margin-bottom:10px;"/><br>
   Data Scientist | BCA & MCA Graduate | <b>IBM-Certified Data Scientist</b> | <b>Google-Certified Data Analyst</b><br>
   Driven by curiosity, precision, and a relentless pursuit of intelligent automation in real-world systems.
 </p>
 
-<p align="center" style="color:#00ffff; font-style:italic; font-size:15px; line-height:1.5;">
+<p align="center" style="color:#00ffff; font-style:italic; font-size:15px; line-height:1.5; margin-top:5px;">
   “Behind every intelligent system is a mind that sees patterns where others see noise and pixels.”
 </p>
 
-<p align="center">
-  <a href="https://github.com/IAaqib78" target="_blank">
+<p align="center" style="margin-top:10px;">
+  <a href="https://github.com/IAaqib78" target="_blank" style="margin-right:15px;">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" title="GitHub"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aaqib-altaf-94021a146/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" title="LinkedIn"/>
   </a>
 </p>
-
 
 ---
 
