@@ -35,10 +35,62 @@ Crafted with the mindset of a data scientist and the precision of an engineer, i
 > “Not just another model — this is an ecosystem of perception.”
 
 ---
-<h2> 
-<span style="color:#00e0ff;">Core Features — Intelligent, Adaptive, Real-Time</span>
-</h2>
-<table style="width:100%; border-collapse:collapse; background-color:#0d1117; color:#c9d1d9; border:1px solid #30363d;"> <tr style="background-color:#161b22; color:#58a6ff;"> <th style="padding:12px; text-align:left;">🚗 Capability</th> <th style="padding:12px; text-align:left;">💡 Description</th> </tr> <tr> <td style="padding:12px; color:#00ffe6;"><b>Real-Time License Plate Detection</b></td> <td style="padding:12px;">Powered by <b>YOLOv8</b>, the system performs high-speed detection and localization of license plates in both images and live video streams.</td> </tr> <tr> <td style="padding:12px; color:#00ffe6;"><b>Optical Character Recognition (OCR)</b></td> <td style="padding:12px;">Utilizes advanced OCR pipelines to extract and decode alphanumeric plate details with remarkable accuracy and efficiency.</td> </tr> <tr> <td style="padding:12px; color:#00ffe6;"><b>Noise & Glare Correction</b></td> <td style="padding:12px;">Integrates preprocessing techniques such as <b>illumination normalization</b>, <b>contrast enhancement</b>, and <b>motion blur reduction</b> to maintain clarity under varying lighting conditions.</td> </tr> <tr> <td style="padding:12px; color:#00ffe6;"><b>Multi-Input Compatibility</b></td> <td style="padding:12px;">Supports real-time feeds from <b>webcams, CCTV, or uploaded files</b>, adapting dynamically to diverse input formats and resolutions.</td> </tr> <tr> <td style="padding:12px; color:#00ffe6;"><b>Interactive Streamlit Dashboard</b></td> <td style="padding:12px;">An intuitive dashboard for <b>live visualization, performance metrics</b>, and detection previews — making experimentation seamless and interactive.</td> </tr> <tr> <td style="padding:12px; color:#00ffe6;"><b>Scalable Modular Design</b></td> <td style="padding:12px;">Engineered with a <b>plug-and-play architecture</b> enabling easy integration into <b>smart surveillance, toll monitoring</b>, and <b>automated access systems</b>.</td> </tr> </table>
+<h2 style="text-align:center; color:#00e0ff;">Core Features — Intelligent, Adaptive, Real-Time</h2>
+
+<table style="width:100%; border-collapse:collapse; background-color:#0d1117; border:1px solid #30363d; font-family:Arial, sans-serif;">
+  <tr style="background-color:#161b22; color:#58a6ff; font-size:16px;">
+    <th style="padding:14px; text-align:left;">🚗 Capability</th>
+    <th style="padding:14px; text-align:left;">💡 Description</th>
+  </tr>
+
+  <tr style="transition: background 0.3s;">
+    <td style="padding:12px; color:#00ffe6; font-weight:600;"><b>Real-Time License Plate Detection</b></td>
+    <td style="padding:12px; color:#ffffff; line-height:1.5;">
+      Powered by <b>YOLOv8</b>, the system performs high-speed detection and localization of license plates in both images and live video streams.
+    </td>
+  </tr>
+
+  <tr style="transition: background 0.3s;">
+    <td style="padding:12px; color:#00ffe6; font-weight:600;"><b>Optical Character Recognition (OCR)</b></td>
+    <td style="padding:12px; color:#ffffff; line-height:1.5;">
+      Utilizes advanced OCR pipelines to extract and decode alphanumeric plate details with remarkable accuracy and efficiency.
+    </td>
+  </tr>
+
+  <tr style="transition: background 0.3s;">
+    <td style="padding:12px; color:#00ffe6; font-weight:600;"><b>Noise & Glare Correction</b></td>
+    <td style="padding:12px; color:#ffffff; line-height:1.5;">
+      Integrates preprocessing techniques such as <b>illumination normalization</b>, <b>contrast enhancement</b>, and <b>motion blur reduction</b> to maintain clarity under varying lighting conditions.
+    </td>
+  </tr>
+
+  <tr style="transition: background 0.3s;">
+    <td style="padding:12px; color:#00ffe6; font-weight:600;"><b>Multi-Input Compatibility</b></td>
+    <td style="padding:12px; color:#ffffff; line-height:1.5;">
+      Supports real-time feeds from <b>webcams, CCTV, or uploaded files</b>, adapting dynamically to diverse input formats and resolutions.
+    </td>
+  </tr>
+
+  <tr style="transition: background 0.3s;">
+    <td style="padding:12px; color:#00ffe6; font-weight:600;"><b>Interactive Streamlit Dashboard</b></td>
+    <td style="padding:12px; color:#ffffff; line-height:1.5;">
+      An intuitive dashboard for <b>live visualization, performance metrics</b>, and detection previews — making experimentation seamless and interactive.
+    </td>
+  </tr>
+
+  <tr style="transition: background 0.3s;">
+    <td style="padding:12px; color:#00ffe6; font-weight:600;"><b>Scalable Modular Design</b></td>
+    <td style="padding:12px; color:#ffffff; line-height:1.5;">
+      Engineered with a <b>plug-and-play architecture</b> enabling easy integration into <b>smart surveillance, toll monitoring</b>, and <b>automated access systems</b>.
+    </td>
+  </tr>
+</table>
+
+<style>
+  table tr:hover { background-color: #1c222a; }
+  table td, table th { transition: all 0.3s ease; }
+</style>
+
 
 
 
@@ -108,8 +160,35 @@ Crafted with the mindset of a data scientist and the precision of an engineer, i
 
 ---
 
-<h3>👨‍💻 About the Author </h3>
-<h2 align="center" style="background: linear-gradient(90deg, #00ffe6, #58a6ff); -webkit-background-clip: text; color: transparent;">Aakif Altaf</h2> <p align="center" style="color:#c9d1d9; font-size:16px;"> <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80"/><br> Data Scientist | BCA & MCA Graduate | <b>IBM-Certified Data Scientist</b> | <b>Google-Certified Data Analyst</b><br> Driven by curiosity, precision, and a relentless pursuit of intelligent automation in real-world systems. </p> <p align="center" style="color:#9be9a8; font-style:italic; font-size:15px;"> “Behind every intelligent system is a mind that sees patterns where others see noise and pixels.” </p> <p align="center"> <a href="https://github.com/IAaqib78" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" title="GitHub"/> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/aaqib-altaf-94021a146/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" title="LinkedIn"/> </a> </p>
+<h3 style="text-align:center; color:#00ffe6;">👨‍💻 About the Author</h3>
+
+<h2 align="center" style="background: linear-gradient(90deg, #00ffe6, #58a6ff); 
+    -webkit-background-clip: text; 
+    color: #00ffe6; 
+    text-shadow: 0px 0px 5px #00ffe6, 0px 0px 10px #58a6ff;">
+  Aakif Altaf
+</h2>
+
+<p align="center" style="color:#ffffff; font-size:16px; line-height:1.6;">
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80" alt="Author Avatar"/><br>
+  Data Scientist | BCA & MCA Graduate | <b>IBM-Certified Data Scientist</b> | <b>Google-Certified Data Analyst</b><br>
+  Driven by curiosity, precision, and a relentless pursuit of intelligent automation in real-world systems.
+</p>
+
+<p align="center" style="color:#00ffe6; font-style:italic; font-size:15px; line-height:1.4;">
+  “Behind every intelligent system is a mind that sees patterns where others see noise and pixels.”
+</p>
+
+<p align="center">
+  <a href="https://github.com/IAaqib78" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" title="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aaqib-altaf-94021a146/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" title="LinkedIn"/>
+  </a>
+</p>
+
 
 ---
 
